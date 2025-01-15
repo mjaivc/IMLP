@@ -1,2 +1,2 @@
 # IMLP
-This is NTU Train Course
+This is NTU Training IMLP Course
